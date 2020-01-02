@@ -24,6 +24,5 @@ Plug\
 WiFi Strength\
 Poll\Sync\
 Update DNI\
-WiFi Strength\
 
 See Smartthings Classic Device Handler for Tasmota Power Plug.pdf for more details.
