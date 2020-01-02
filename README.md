@@ -1,6 +1,6 @@
 # Tasmota-Plug-with-Power-Monitoring-for-SmartThings-Classic
 A comprehensive device handler for Tasmota based plugs that support Power Monitoring.\
-Tasmota firmware has a rich set of capabilities that are not being fully exploited by the currently available device handlers (DH) for Tasmota based plugs with Power Management. This DH makes a lot of the relevant power data available through the SmartThings Classic interface. It supports the following features:
+Tasmota firmware has a rich set of capabilities that are not being fully exploited by the currently available device handlers (DH) for Tasmota based plugs with Power Management. This DH makes a lot of the relevant power data available through the SmartThings Classic interface. It supports the following features:\
 Capabilities List\
 Plug \
 •	Off\On\
