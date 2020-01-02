@@ -1,5 +1,5 @@
 # Tasmota-Plug-with-Power-Monitoring-for-SmartThings-Classic
-A comprehensive device handler for Tasmota based plugs that support Power Monitoring.\
+BETA RELEASE: A comprehensive device handler for Tasmota based plugs that support Power Monitoring.\
 Tasmota firmware has a rich set of capabilities that are not being fully exploited by the currently available device handlers (DH) for Tasmota based plugs with Power Management. This DH makes a lot of the relevant power data available through the SmartThings Classic interface. It supports the following features:\
 Capabilities List\
 Plug \
@@ -25,3 +25,5 @@ WiFi Strength\
 Poll\Sync\
 Update DNI\
 WiFi Strength\
+
+See Smartthings Classic Device Handler for Tasmota Power Plug.pdf for more detail including how to add multiple devices.
