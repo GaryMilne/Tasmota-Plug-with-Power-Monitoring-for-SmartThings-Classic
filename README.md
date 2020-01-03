@@ -23,6 +23,6 @@ Plug\
 •	Uptime\
 WiFi Strength\
 Poll\Sync\
-Update DNI\
+Update DNI
 
 See Smartthings Classic Device Handler for Tasmota Power Plug.pdf for more details.
