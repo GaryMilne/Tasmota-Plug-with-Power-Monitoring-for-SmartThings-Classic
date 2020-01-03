@@ -26,3 +26,4 @@ Poll\Sync\
 Update DNI
 
 See Smartthings Classic Device Handler for Tasmota Power Plug.pdf for more details.
+Video Demo: https://youtu.be/MKLAK8PdVtw
